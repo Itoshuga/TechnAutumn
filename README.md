@@ -2,8 +2,7 @@
 
 
 ### Contexte
-Créer un site web dont le contenu est libre, mais en respectant les contraintes suivantes.  
-  
+Créer un site web dont le contenu est libre, mais en respectant les contraintes suivantes.   
     → Comptes utilisateurs : globalement on ne peut pas utiliser librement le site sans créer un compte et être authentifié.  
     → Le site est sécurisé : hachage des mots de passe, protection contre les failles XSS, les injections SQL, validation des données issues de formulaires.  
     → On se conforme au design pattern MVC.  
